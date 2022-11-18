@@ -1,0 +1,23 @@
+<!htmldoc html>
+<html>
+<head>
+<title>ALL IN ONE PARADISE</title>
+<h1 style="font-size:40;">here you can find links of all websites👍</h1>
+</head>
+<body>
+<img src="facebook.PNG"alt=poiter definition"height=200 width=200>
+<p style = "color:red;">THE OLDEST SOCIAL MEDIA WHICH RULED INTERNET FOR A DECADE
+<a href="https://www.facebook.com">FACEBOOK</a>
+<pre>
+<img src="twitter.JPG"height=200 width=200>
+                            <a href="https://www.twitter.com">TWITTER</a>
+</pre>
+<img src="insta.JPG"height=200 width=200>
+<a href="https://www.instagram.com">instagram</a>
+</body>
+</html>
+
+
+
+
+
